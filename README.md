@@ -1,3 +1,2 @@
 # Windows Server 2022 With Github Actions
-TESTED, WORKING 
-WARNING: IF YOU MINE IN THIS CRD YOUR AND MY REPOSITORY GET BANNED.
+Tested working, don't mine on the server.
